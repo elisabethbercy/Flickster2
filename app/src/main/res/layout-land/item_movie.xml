@@ -8,7 +8,8 @@
 
     <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:background="#221F1F">
 
         <ImageView
             android:id="@+id/ivPoster"
@@ -29,8 +30,9 @@
             android:layout_marginLeft="203dp"
             android:layout_marginTop="2dp"
             android:text="TextView"
-            android:textColor="#E6070707"
-            android:textSize="24sp" />
+            android:textColor="#FFFFFF"
+            android:textSize="24sp"
+            tools:text="Advengers: Endgame" />
 
         <TextView
             android:id="@+id/tvOverview"
@@ -42,9 +44,9 @@
             android:layout_marginStart="208dp"
             android:layout_marginLeft="208dp"
             android:layout_marginTop="46dp"
-            android:text="TextView"
-            android:textColor="#3F51B5"
-            android:textSize="20sp" />
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            tools:text="After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store." />
     </RelativeLayout>
 
 </LinearLayout>
