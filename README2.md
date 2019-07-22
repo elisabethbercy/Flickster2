@@ -19,9 +19,9 @@
 
 ### App Walkthough GIF
 
-`TODO://` Add the URL to your animated app walkthough `https://i.imgur.com/bMTVf1T.gif` in the image tag below, `https://i.imgur.com/bMTVf1T.gif`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
+`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `[img]https://i.imgur.com/bMTVf1T.gif[/img]`.
 
-<img src="https://imgur.com/bMTVf1T" width=250><br>
+<img src="https://i.imgur.com/bMTVf1T.gif" width=250><br>
 
 
 
